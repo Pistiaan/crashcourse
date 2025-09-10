@@ -8,7 +8,10 @@ print(f"{mvps[0]} can't make it, since he's not really the goat")
 
 mvps[0] = 'xPeke'
 
-print(f"{mvps[0]} is the real goat and he will come to the dinner party instead, with {mvps[1]} and {mvps[2]}")
+print(
+    f"{mvps[0]} is the real goat and he will come to "
+    f"the dinner party instead, with {mvps[1]} and {mvps[2]}"
+)
 
 print("Guys I found a bigger table, we need more gamers")
 
